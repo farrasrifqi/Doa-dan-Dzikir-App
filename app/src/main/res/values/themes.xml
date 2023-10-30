@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DoaDanDzikirApp" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorSurface">@color/coklat</item>
+        <item name="titleTextColor">@color/white</item>
+        <item name="homeAsUpIndicator">@drawable/ic_arrow_back</item>
+        <item name="android:statusBarColor">@color/coklat</item>
+    </style>
+
+    <style name="Theme.DoaDanDzikirApp" parent="Base.Theme.DoaDanDzikirApp" />
+</resources>

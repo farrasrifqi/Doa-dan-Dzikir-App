@@ -1,0 +1,161 @@
+<resources>
+    <string name="app_name">Doa &amp; Dzikir App</string>
+
+    <string name="txt_judul_fitur">Kumpulan Doa &amp; Dzikir Sehari-Hari</string>
+    <string name="txt_sunnah_qauliyah">Sunnah-Sunnah Qauliyah \nDzikir &amp; Doa Shalat</string>
+    <string name="txt_dzikir_setiap_saat">Dzikir Setiap Saat</string>
+    <string name="txt_dzikir_doa_harian">Dzikir &amp; Doa Harian</string>
+    <string name="txt_dzikir_pagi_petang"><![CDATA[Dzikir Pagi & Petang]]></string>
+
+    <string name="txt_artikel_islami">Artikel Islami</string>
+
+    <string name="txt_dzikir_pagi">Dzikir Pagi</string>
+    <string name="txt_dzikir_petang">Dzikir Petang</string>
+
+    <string name="content_txt_icon_dzikir_pagi_petang">Icon Dzikir Pagi Petang</string>
+    <string name="content_txt_icon_dzikir_doa_harian">Icon Dzikir Doa Harian</string>
+    <string name="content_txt_icon_dzikir_setiap_saat">Icon Dzikir Setiap Saat</string>
+    <string name="content_txt_icon_qauliyah_shalat">Icon Qauliyah Shalat</string>
+    <string name="content_txt_icon_btn_dzikir_pagi">Icon btn dzikir Pagi</string>
+    <string name="content_txt_icon_btn_dzikir_petang">Icon btn Dzikir Petang</string>
+    <string name="content_txt_icon_image_for_background_dzikir">Icon image for Background Dzikir</string>
+    <string name="content_txt_image_artikel">Image Poster Detail Artikel</string>
+
+    <string-array name="arr_img_artikel">
+        <item>@drawable/artikel_1</item>
+        <item>@drawable/artikel_2</item>
+        <item>@drawable/artikel_3</item>
+        <item>@drawable/artikel_4</item>
+        <item>@drawable/artikel_5</item>
+    </string-array>
+
+    <string-array name="arr_title_artikel">
+        <item>Sedekah Adalah Bukti Keimanan</item>
+        <item>Hidup boros, teman nya setan</item>
+        <item>Sedekah Tidaklah Mengurangi Harta</item>
+        <item>Sebaik-baik Harta, Di Tangan Orang yang Sholih</item>
+        <item>Mudahkanlah Orang yang Berutang Padamu </item>
+    </string-array>
+
+    <string-array name="arr_desc_artikel">
+        <item>Salah satu cara kita mengetahui kadar keimanan kita adalah dengan melihat apakah kita suka bersedekah atau tidak. Bersedekah tidak harus banyak dan tidak harus dengan uang, sehingga tidak kaya atau tidak punya uang bukanlah menjadi alasan kita untuk tidak bersedekah. Bersedekah dengan uang Rp 10.000, Rp 20.000, atau Rp 50.000 itu sudah cukup. Atau bersedekah dengan beras yang kita miliki sebanyak satu kilo atau dua kilo, ini pun sudah cukup. Sedekah adalah bukti keimanan. Bukti keimanan kita terhadap hari akhir, bahwasanya kelak di hari kiamat kita akan mendapat balasan pahala dari Allah, meskipun di dunia kita tidak mendapatkan apa-apa. Kita lelah bekerja mencari uang dan harta, lalu uang tersebut kita berikan tanpa kompensasi dan kita hanya berharap balasan di hari kiamat kelak.</item>
+        <item>Saudaraku, perlu diketahui bahwa hidup boros, senang membuang-buang harta untuk hal yang sia-sia termasuk meniru perbuatan setan.
+
+            Allah Ta’ala berfirman,\n\n
+            وَلا تُبَذِّرْ تَبْذِيرًا إِنَّ الْمُبَذِّرِينَ كَانُوا إِخْوَانَ الشَّيَاطِينِ\n\n
+
+            “Dan janganlah kamu menghambur-hamburkan (hartamu) secara boros. Sesungguhnya pemboros-pemboros itu adalah saudara-saudara syaitan.” (QS. Al Isro’ [17]: 26-27).\n\n
+
+            Maksudnya adalah mereka menyerupai setan dalam hal ini.\n\n
+
+            Ibnu Mas’ud dan Ibnu ‘Abbas mengatakan, “Tabdzir (pemborosan) adalah menginfakkan sesuatu pada jalan yang keliru.”\n\n
+
+            Mujahid mengatakan, “Seandainya seseorang menginfakkan seluruh hartanya dalam jalan yang benar, itu bukanlah tabdzir (pemborosan).\n\n
+
+            Seandainya seseorang menginfakkan satu mud saja (ukuran telapak tangan) pada jalan yang keliru, itulah yang dinamakan tabdzir (pemborosan).”\n\n
+        </item>
+
+        <item>Sedekah tidaklah mungkin mengurangi harta … Yakinlah!\n\n
+
+            Dari Asma’ binti Abi Bakr, Rasulullah shallallahu ‘alaihi wa sallam bersabda padaku,\n\n
+
+            لاَ تُوكِي فَيُوكى عَلَيْك\n\n
+
+            “Janganlah engkau menyimpan harta (tanpa mensedekahkannya). Jika tidak, maka Allah akan menahan rizki untukmu.”\n\n
+
+            Dalam riwayat lain disebutkan,\n\n
+
+أنفقي أَوِ انْفَحِي ، أَوْ انْضَحِي ، وَلاَ تُحصي فَيُحْصِي اللهُ عَلَيْكِ ، وَلاَ تُوعي فَيُوعي اللهُ عَلَيْكِ\n\n
+
+            “Infaqkanlah hartamu. Janganlah engkau menghitung-hitungnya (menyimpan tanpa mau mensedekahkan). Jika tidak, maka Allah akan menghilangkan barokah rizki tersebut[1]. Janganlah menghalangi anugerah Allah untukmu. Jika tidak, maka Allah akan menahan anugerah dan kemurahan untukmu.”[2]\n\n
+
+            Hadits ini dibawakan oleh Yahya bin Syarf An Nawawi dalam Riyadhus Shalihin pada Bab “Kemuliaan, berderma dan berinfaq”, hadits no. 559 (60/16).
+        </item>
+
+        <item>Hadits semacam ini dibawakan oleh Imam Al Bukhari dalam Adabul Mufrod pada Bab “Sebaik-baik harta adalah di tangan orang yang sholih”.\n\n
+
+حَدَّثَنَا عَبْدُ اللَّهِ حَدَّثَنِى أَبِى حَدَّثَنَا عَبْدُ الرَّحْمَنِ حَدَّثَنَا مُوسَى بْنُ عَلِىٍّ عَنْ أَبِيهِ قَالَ سَمِعْتُ عَمْرَو بْنَ الْعَاصِ يَقُولُ بَعَثَ إِلَىَّ رَسُولُ اللَّهِ -صلى الله عليه وسلم- فَقَالَ « خُذْ عَلَيْكَ ثِيَابَكَ وَسِلاَحَكَ ثُمَّ ائْتِنِى ». فَأَتَيْتُهُ وَهُوَ يَتَوَضَّأُ فَصَعَّدَ فِىَّ النَّظَرَ ثُمَّ طَأْطَأَهُ فَقَالَ « إِنِّى أُرِيدُ أَنْ أَبْعَثَكَ عَلَى جَيْشٍ فَيُسَلِّمَكَ اللَّهُ وَيُغْنِمَكَ وَأَرْغَبُ لَكَ مِنَ الْمَالِ رَغْبَةً صَالِحَةً ». قَالَ قُلْتُ يَا رَسُولَ اللَّهِ مَا أَسْلَمْتُ مِنْ أَجْلِ الْمَالِ وَلَكِنِّى أَسْلَمْتُ رَغْبَةً فِى الإِسْلاَمِ وَأَنْ أَكُونَ مَعَ رَسُولِ اللَّهِ -صلى الله عليه وسلم-. فَقَالَ « يَا عَمْرُو نِعْمَ الْمَالُ الصَّالِحُ لِلْمَرْءِ الصَّالِحِ »\n\n
+
+Telah menceritakan kepada kami Abdurrahman Telah menceritakan kepada kami Musa bin Ali dari Bapaknya ia berkata, saya mendengar Amru bin Ash berkata, “Rasulullah shallallahu ‘alaihi wasallam mengutus seseorang kepadaku agar mengatakan, “Bawalah pakaian dan senjatamu, kemudian temuilah aku.” Maka aku pun datang menemui beliau, sementara beliau sedang berwudlu. Beliau kemudian memandangiku dengan serius dan mengangguk-anggukkan (kepalanya). Beliau lalu bersabda: “Aku ingin mengutusmu berperang bersama sepasukan prajurit. Semoga Allah menyelamatkanmu, memberikan ghanimah dan dan aku berharap engkau mendapat harta yang baik.” Saya berkata, “Wahai Rasulullah, saya tidaklah memeluk Islam lantaran ingin mendapatkan harta, akan tetapi saya memeluk Islam karena kecintaanku terhadap Islam dan berharap bisa bersama Rasulullah shallallahu ‘alaihi wasallam.” Maka beliau bersabda: “Wahai Amru, sebaik-baik harta adalah harta yang dimiliki oleh hamba yang Shalih.” (HR. Ahmad 4/197. Syaikh Syu’aib Al Arnauth mengatakan bahwa sanad hadits ini shahih sesuai syarat Muslim)
+        </item>
+
+        <item>Dalam shohih Muslim pada Bab ‘Keutamaan berkumpul untuk membaca Al Qur’an dan dzikir’, dari Abu Hurairah radhiyallahu ‘anhu, Rasulullah shallallahu ‘alaihi wa sallam bersabda,\n\n
+
+مَنْ نَفَّسَ عَنْ مُؤْمِنٍ كُرْبَةً مِنْ كُرَبِ الدُّنْيَا نَفَّسَ اللَّهُ عَنْهُ كُرْبَةً مِنْ كُرَبِ يَوْمِ الْقِيَامَةِ وَمَنْ يَسَّرَ عَلَى مُعْسِرٍ يَسَّرَ اللَّهُ عَلَيْهِ فِى الدُّنْيَا وَالآخِرَةِ وَمَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّهُ فِى الدُّنْيَا وَالآخِرَةِ وَاللَّهُ فِى عَوْنِ الْعَبْدِ مَا كَانَ الْعَبْدُ فِى عَوْنِ أَخِيهِ\n\n
+
+“Barangsiapa meringankan sebuah kesusahan (kesedihan) seorang mukmin di dunia, Allah akan meringankan kesusahannya pada hari kiamat. Barangsiapa memudahkan urusan seseorang yang dalam keadaan sulit, Allah akan memberinya kemudahan di dunia dan akhirat. Barangsiapa menutup ‘aib seseorang, Allah pun akan menutupi ‘aibnya di dunia dan akhirat. Allah akan senantiasa menolong hamba-Nya, selama hamba tersebtu menolong saudaranya.” (HR. Muslim no. 2699)\n\n
+
+Keutamaan seseorang yang memberi utang terdapat dalam hadits yang mulia yaitu pada sabda beliau shallallahu ‘alaihi wa sallam: Barangsiapa memudahkan urusan seseorang yang dalam keadaan sulit, Allah akan memberinya kemudahan di dunia dan akhirat.\n\n
+
+Dalam Tuhfatul Ahwadzi (7/261) dijelaskan maksud hadits ini yaitu: “Memberi kemudahan pada orang miskin –baik mukmin maupun kafir- yang memiliki utang, dengan menangguhkan pelunasan utang atau membebaskan sebagian utang atau membebaskan seluruh utangnya.”\n\n
+
+Sungguh beruntung sekali seseorang yang memberikan kemudahan bagi saudaranya yang berada dalam kesulitan, dengan izin Allah orang seperti ini akan mendapatkan kemudahan di hari yang penuh kesulitan yaitu hari kiamat.
+        </item>
+    </string-array>
+
+    <string-array name="arr_dzikir_doa_harian">
+        <item>Sebelum tidur</item>
+        <item>Ketika mimpi buruk</item>
+        <item>Bangun tidur</item>
+        <item>Masuk WC/kamar mandi</item>
+        <item>Keluar WC/kamar mandi</item>
+        <item>Sebelum wudhu</item>
+        <item>Setelah wudhu</item>
+        <item>Mengenakan pakaian</item>
+        <item>Melepas pakaian</item>
+        <item>Keluar rumah</item>
+        <item>Masuk rumah</item>
+        <item>Pergi ke Masjid</item>
+        <item>Masuk ke Masjid</item>
+        <item>Keluar dari Masjid</item>
+        <item>Ketika mendengar Adzan</item>
+        <item>Setelah adzan</item>
+        <item>Bersin</item>
+        <item>Kepada orang yang berbuat baik kepadamu</item>
+        <item>Ketika marah</item>
+    </string-array>
+
+    <string-array name="arr_lafaz_dzikir_doa_harian">
+        <item>Mengumpulkan dua telapak tangan, lalu ditiup dan dibacakan:\n\nSurat Al-Ikhlas:\nبِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ \nقُلْ هُوَ اللَّهُ أَحَدٌ ﴿١﴾ اللَّهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ ﴿٤﴾ \n\nSurat Al-Falaq:\nبِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ \nقُلْ اَعُوْذُ بِرَبِّ الْفَلَقِۙ ﴿١﴾ مِنْ شَرِّ مَا خَلَقَۙ ﴿٢﴾ وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ ﴿٣﴾ وَمِنْ شَرِّ النَّفّٰثٰتِ فِى الْعُقَدِۙ ﴿٤﴾ وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ ﴿٥﴾ \n\nAn-Naas:\nبِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ \nقُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ ﴿١﴾ مَلِكِ النَّاسِۙ ﴿٢﴾ اِلٰهِ النَّاسِۙ ﴿٣﴾ مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ ﴿٤﴾ الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ ﴿٥﴾ مِنَ الْجِنَّةِ وَالنَّاسِ ﴿٦﴾\nAyat Kursi:\nٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ\nKetika sudah berbaring baca doa:\nاَللَّهُمَّ أَسْلَمْتُ نَفْسِيْ إِلَيْكَ، وَفَوَّضْتُ أَمْرِيْ إِلَيْكَ، وَوَجَّهْتُ وَجْهِيَ إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِيْ إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لاَ مَلْجَأَ وَلاَ مَنْجَا مِنْكَ إِلاَّ إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِيْ أَنْزَلْتَ وَبِنَبِيِّكَ الَّذِيْ أَرْسَلْتَ\n\nبِاسْمِكَ رَبِّيْ وَضَعْتُ جَنْبِيْ، وَبِكَ أَرْفَعُهُ، فَإِنْ أَمْسَكْتَ نَفْسِيْ فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِيْنَ</item>
+        <item>Membaca isti\'adzah:\nأَعُوذُ بِاَللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِْ\nlalu meludah tipis (meniup disertai sedikit liur) ke sebelah kirinya sebanyak tiga kali.\nDemikian juga merubah posisi tidur. Bahkan dianjurkan untuk bangun dan shalat.</item>
+        <item>الحَمْدُ ِللهِ الَّذِي أَحْيَاناَ بَعْدَ مَا أَمَاتَنَا وَ إِلَيْهِ النُّشُوْرُ</item>
+        <item>اللَّهُمَّ إِنِّى أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ</item>
+        <item>غُفْرَانَكَ</item>
+        <item>بسم الله</item>
+        <item>Pertama:\nأَشْهَدُ أَنْ لاَ إِلهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ\n\nKedua:\nسُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لاَ إِلَـهَ إِلاَّ أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوْبُ إِلَيْكَ</item>
+        <item>اَلْحَمْدُ لِلَّهِ الَّذِيْ كَسَانِيْ هَذَا الثَّوْبَ وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّيْ وَلَا قُوَّةٍ</item>
+        <item>بسم الله</item>
+        <item>بِسْمِ اللهِ تَوَكَّلْتُ عَلَى اللهِ لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ</item>
+        <item>Pertama:\nبسم الله\n\Kedua:\nالسلام عليكم</item>
+        <item>اللّهُمَّ اجْعَلْ فِي قَلْبِيْ نُوْراً، وَفِي لِسَانِي نُوْراً، وَاجْعَلْ وَفِي سَمْعِي نُوْراً، وَاجْعَلْ فِي بَصَرِي نُوْراً، وَاجْعَلْ مِنْ خَلْفِي نُوْراً، وَمِنْ أَمَامِي نُوْراً، وَاجْعَلْ مِنْ فَوْقِي نُوْراً، وَمِنْ تَحْتِي نُوْراً، اللّهُمَّ أَعْطِنِي نُوْراً</item>
+        <item>Pertama:\nاللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ\n\nKedua:\nوَالصَّلَاةُ وَالسَّلاَمُ عَلَى رَسُولِ اللهِ اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ\n\nKetiga:\nأَعُوذُ بِاللَّهِ الْعَظِيمِ، وَبِوَجْهِهِ الْكَرِيمِ، وَسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ الرَّجِيمِ</item>
+        <item>اللَّهُمَّ إِنِّيْ أَسْأَلُكَ مِنْ فَضْلِكَ</item>
+        <item>Seseorang yang mendengarkan adzan, hendaklah mengucapkan sebagaimana yang diucapkan oleh muadzin, kecuali dalam kalimat:\nHayya \'alash shalaah\n\ndan\n\nHayya \'alal falaah. Maka mengucapkan:\nلاحول ولا قوة الا بالله</item>
+        <item>اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ ، وَالصَّلاَةِ القَائِمَةِ آتِ مُحَمَّدًا الوَسِيلَةَ وَالفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ</item>
+        <item>Yang bersin mengucapkan:\nالحمد لله\nYang mendengar hamdalah mengucapkan:\nيَرْحَمُكَ اللهُ\nBila teman atau saudaranya mengucapkan (yarhamukallah), maka yang bersin membalas dengan:\nيَهْدِيْكُمُ اللهُ وَيُصْلِحُ بَالَكُمْ</item>
+        <item>جزاك الله خيراً</item>
+        <item>أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ</item>
+    </string-array>
+
+    <string-array name="arr_terjemah_dzikir_doa_harian">
+        <item>Surat Al-Ikhlas:\n\"Katakanlah: Dialah Allah Yang Maha Esa. Allah adalah ilah yang bergantung kepada-Nya segala urusan. Dia tidak beranak dan tiada pula diperanakkan. Dan tidak ada seorang pun yang setara dengan Dia.\"\n\nSurat Al-Falaq:\n\"Katakanlah: Aku berlindung kepada Rabb yang menguasai Subuh. Dari kejahatan makhluk-Nya. Dan dari kejahatan malam apabila telah gelap gulita. Dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul. Dan dari kejahatan orang yang dengki apabila ia dengki.\"\n\nAn-Naas:\n\"Katakanlah: Aku berlindung kepada Rabb manusia. Raja manusia. Sembahan manusia. Dari kejahatan (bisikan) syaitan yang biasa bersembunyi. Yang membisikkan (kejahatan) ke dalam dada manusia. Dari jin dan manusia.\"\n\nAyat Kursi:\n\"Allah, tidak ada sesembahan yang berhak disembah kecuali Dia Yang Hidup Kekal lagi terus-menerus mengurus (makhluk-Nya). Tidak mengantuk dan tidak tidur. Kepunyaan-Nya apa yang di langit dan di bumi. Siapakah yang dapat memberi syafa\'at di sisi Allah tanpa izin-Nya? Allah mengetahui apa-apa yang dia hadapan dan di belakang mereka, dan mereka tidak mengetahui apa-apa ilmu Allah melainkan apa yang dikehendaki-Nya. Kursi Allah melliputi langit dan bumi, dan Allah tidak merasa berat memelihara keduanya. Dan Allah Maha Tinggi lagi Maha Besar.\"\n\nKetika sudah berbaring baca doa:\n\"Ya Allah, aku serahkan jiwaku kepada-mu, aku hadapkan wajahku kepada-Mu, aku serahkan urusanku kepada-Mu, aku sandarkan punggungku kepada-Mu, karena mengharapkan (pahala-Mu) dan takut (adzab-Mu). Tiada tempat bersandar dan menyelamatkan diri dari (hukuman)-Mu kecuali kepada-Mu. Aku beriman kepada Kitab-Mu yang Engkau turunkan, dan kepada Nabi-Mu yang Engkau utus.\"\n\n\"Dengan nama Engkau, wahai Rabbku, aku meletakkan lambungku. Dan dengan nama-Mu pula aku bangun dari padanya. Apabila Engkau menahan rohku maka berilah rahmat padanya. Tapi apabila Engkau melepaskannya maka peliharalah, sebagaimana Engkau memelihara hamba-hambaMu yang shalih.\"</item>
+        <item>\"Aku memohon perlindungan kepada Allah dari setan yang terkutuk.\"</item>
+        <item>\"Segala puji bagi Allah, yang membangunkan kami setelah ditidurkanNya dan kepadaNya kami dikumpulkan.\"</item>
+        <item>\"Dengan nama Allah. Ya Allah, sesungguhnya aku berlindung kepada-Mu dari keburukan dan jin.\"</item>
+        <item>\"Aku minta ampun kepadaMu.\"</item>
+        <item>\"Dengan nama Allah (aku berwudhu).\"</item>
+        <item>Pertama:\n\"Aku bersaksi, bahwa tidak ada sesembahan yang berhak disembah kecuali Allah, Yang Maha Esa dan tiada sekutu bagiNya. Aku bersaksi, bahwa Muhammad adalah hamba dan utusanNya.\"\n\nKedua:\n\"Maha Suci Engkau ya Allah, aku memujiMu. Aku bersaksi bahwa tidak ada sesembahan yang berhak disembah kecuali Engkau, aku minta ampun dan betaubat kepada-Mu.\"</item>
+        <item>\"Segala puji bagi Allah yang memberi pakaian ini kepadaku sebagai rezeki dariNya tanpa daya dan kekuatan dariku.\"</item>
+        <item>\"Dengan nama Allah (aku meletakkan baju).\"</item>
+        <item>\"Dengan nama Allah, aku bertawakkal kepada Allah, tiada daya dan kekuatan kecuali dengan pertolongan Allah.\"</item>
+        <item>Pertama:\n\"Dengan nama Allah.\"\n\n\Kedua:\n\"Semoga keselamatan atas kalian.\"</item>
+        <item>\"Ya Allah, jadikanlah cahaya di hatiku, cahaya di lidahku, cahaya di pendengaranku, cahaya di penglihatanku, cahaya dari belakangku, cahaya dari hadapanku, cahaya dari atasku, cahaya dari bawahku. Ya Allah, berilah aku cahaya.\"</item>
+        <item>Pertama:\n\"Ya Allah, bukalah pintu-pintu rahmatMu untukku.\"\n\nKedua:\n\"Semoga shalawat dan salam terlimpahkan kepada Rasulullah. Ya Allah, bukalah pintu-pintu rahmatMu untukku.\"\n\nKetiga:\n\"Aku berlindung kepada Allah Yang Maha Agung, dengan wajah-Nya Yang Mulia dan kekuasaan-Nya yang abadi, dari setan yang terkuturk.\" </item>
+        <item>\"Ya Allah, sesungguhnya aku minta kepadaMu dari karuniaMu.\"</item>
+        <item>\"Tidak ada daya dan upaya kecuali dengan pertolongan Allah\"</item>
+        <item>\"Ya Allah, Rabb Pemilik panggilan yang sempurna (adzan) ini dan shalat (wajib) yang didirikan. Berilah Al-Wasilah (derajat di Surga, yang tidak akan diberikan selain kepada Nabi) dan fadhilah kepada Muhammad. Dan bangkitkan beliau sehingga bisa menempati maqam terpuji yang telah Engkau janjikan.\"</item>
+        <item>(Alhamdulillah) artinya:\n\"Segala puji bagi Allah.\"\n\n(Yarhamukallah) artinya:\n\"Semoga Allah memberikan rahmat kepadamu.\"\n\n\"(Yahdiikumullaahu wa yushlihu baalakum) artinya:\n\"Semoga Allah memberi petunjuk kepadamu dan memperbaiki keadaanmu.\"</item>
+        <item>\"Semoga Allah membalasmu dengan kebaikan.\"</item>
+        <item>\"Aku berlindung kepada Allah dari godaan syaitan yang terkutuk.\"</item>
+    </string-array>
+</resources>
